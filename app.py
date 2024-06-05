@@ -3,7 +3,7 @@ import os
 
 client = OpenAI(
   base_url = "https://integrate.api.nvidia.com/v1",
-  api_key = ""  #enter you key here
+  api_key = ""  #enter you api key here
 )
 completion = client.chat.completions.create(
   model="meta/llama3-70b-instruct",

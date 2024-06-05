@@ -1,2 +1,2 @@
 ## nvidia_nim
-## `streamlit run app1.py`stre
+## `streamlit run app1.py`
